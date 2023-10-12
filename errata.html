@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fi">
+    <head>
+        <!-- kommentti: koodisto määritellään-->
+        <meta charset="utf-8">
+
+        <!-- skaalaantuu päätelaitteen leveyden mukaan-->
+        <meta name="viewport" 
+        content="width=device-width, initial-scale=1.0">
+        <!-- kuvaus sivun sisällöstä-->
+        <meta name="description" 
+        content="The place for Cosmic Encounter rules">
+        <title>Cosmic Erratas</title>
+        <link rel="stylesheet" href="tyyli.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="universaljack" href="universaljack.ttf">
+    <!--add code for either ascii art or the mouse follow function, just remember to label it
+    so you dont get confused later-->
+    </head>
+
+<body>
+    <a class="navbar-logo" href="index.html">
+        <div class="logo-image">
+            <img src="whirligig.png" alt="logothingie"> </div>
+    </a>
+    <nav class="topnav" id="myTopnav">
+        <a href="index.html">Main page</a>
+        <a class="active" href="errata.html">Interactions and errata</a>
+        <a href="rules.html">Rules</a> 
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+    </nav>
+    <main>
+        <h2 class="h2index">Interactions and Errata</h2>
+        <hr>
+    </main>
+
+        <section style="text-align: center;" class="container">
+            <iframe style="text-align: center;" class="responsive-iframe" src="https://images-cdn.fantasyflightgames.com/filer_public/bd/b6/bdb66dce-f409-4877-8433-184373370281/faq_2018-web.pdf" frameborder="0"></iframe>
+        </section>
+        <script>
+            function myFunction() {
+              var x = document.getElementById("myTopnav");
+              if (x.className === "topnav") {
+                x.className += " responsive";
+              } else {
+                x.className = "topnav";
+              }
+            }
+            </script>
+</body>
+</html>

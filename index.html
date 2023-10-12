@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fi">
+    <head>
+        <!-- kommentti: koodisto määritellään-->
+        <meta charset="utf-8">
+
+        <!-- skaalaantuu päätelaitteen leveyden mukaan-->
+        <meta name="viewport" 
+        content="width=device-width, initial-scale=1.0">
+        <!-- kuvaus sivun sisällöstä-->
+        <meta name="description" 
+        content="The place for Cosmic Encounter rules">
+        <title>Cosmic Erratas</title>
+        <link rel="stylesheet" href="tyyli.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="universaljack" href="universaljack.ttf">
+    </head>
+ 
+<body>
+        <a class="navbar-logo" href="index.html">
+            <div class="logo-image">
+                <img src="whirligig.png" alt="logothingie"></div>
+        </a>
+        <nav class="topnav" id="myTopnav">
+            <!--this is for navigation-->
+            <a class="active" href="index.html">Main page</a>
+            <a href="errata.html">Interactions and errata</a>
+            <a href="rules.html">Rules</a> 
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+            
+        </nav>
+        <header>
+            <h1 style="color: rgb(1, 1, 1);">Cosmic Erratas</h1>
+        </header>
+
+        <section id="mainPageBanner" style="text-align: center;">
+            <img src="cosmicbanner.jpg" alt="banner">
+        </section>
+        <main>
+            
+        <h2 class="h2index">A Cosmic Encounter rule compendium</h2>
+        <p>
+            Cosmic Encounter is a game where players compete for cosmic dominion, 
+            but along that journey, 
+            they must do so within the set rules of the game. 
+            And as the game grew, so did the number of often times confusing interactions. 
+            From additional expansion rules to alien specific interactions, this game has become a veritable pool of confusion.
+</p>
+
+         <p>And so this site exists. Here are compiled
+            both the basic game rules and all of the 
+            additional information required for a smooth experience.
+        </p>
+        <hr>
+        </main>
+        <script>
+            function myFunction() {
+              var x = document.getElementById("myTopnav");
+              if (x.className === "topnav") {
+                x.className += " responsive";
+              } else {
+                x.className = "topnav";
+              }
+            }
+            </script>
+            
+    </body>
+</html>
+<!--things to add
+- navigation bars collapse into a column when the window is reduced to a certain size
+- an expanding menu for the rules category
+- more text
+- appropriately scaling elements
+- list should be under ul or li 
+-->

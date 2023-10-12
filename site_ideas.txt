@@ -1,0 +1,14 @@
+1. Deal with the visual aesthetic of the site : 
+	- space themed sidebars or other fun stuff, cuz minimalism doesnt show off much, even if its very functional
+	- a potential logo?
+	- more colors!
+	- icons are always fun
+	- play around with javascript
+
+2. figure out scalability and apply it to all the sites:
+	- responsive iframe
+	- make sure it works on mobile
+
+3. actual content on the sites (least important part imo)
+	- Yeah this one can be added pretty easily later on	
+	- If you are up for it, add the dreaded search feature per alien (search the pdf for the appropriate feature)	
