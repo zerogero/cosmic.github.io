@@ -1,12 +1,8 @@
 1. Deal with the visual aesthetic of the site : 
 	- space themed sidebars or other fun stuff, cuz minimalism doesnt show off much, even if its very functional
-	- a potential logo?
 	- more colors!
-	- icons are always fun
-	- play around with javascript
 
 2. figure out scalability and apply it to all the sites:
-	- responsive iframe
 	- make sure it works on mobile
 
 3. actual content on the sites (least important part imo)
@@ -18,6 +14,4 @@ IMPROVEMENT IDEAS:
 	Primarily adding more text before the embedded pdf reader
 	And i do mean substantially more text
 	Visuals up	
-	 ohjekirjoille voisi lisätä marginin pohjaan niin ei olisi suoraan kiinni sivun alaosassa. (good idea)
-	Visuaalinen ilme isommalla näytöllä (melko tyhjä sivu, jossa vain keskellä tekstiä) (maybe make it 60 percent instead of 40)
-	Try making it so that the navbar when expadning after clicking expands unto existing elements (so that it covers them up)
+	Try making it so that the navbar when expadning after clicking expands unto existing elements (so that it covers them up) (this is fucking hard)
