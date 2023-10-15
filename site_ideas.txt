@@ -12,3 +12,12 @@
 3. actual content on the sites (least important part imo)
 	- Yeah this one can be added pretty easily later on	
 	- If you are up for it, add the dreaded search feature per alien (search the pdf for the appropriate feature)	
+	
+
+IMPROVEMENT IDEAS:
+	Primarily adding more text before the embedded pdf reader
+	And i do mean substantially more text
+	Visuals up	
+	 ohjekirjoille voisi lisätä marginin pohjaan niin ei olisi suoraan kiinni sivun alaosassa. (good idea)
+	Visuaalinen ilme isommalla näytöllä (melko tyhjä sivu, jossa vain keskellä tekstiä) (maybe make it 60 percent instead of 40)
+	Try making it so that the navbar when expadning after clicking expands unto existing elements (so that it covers them up)

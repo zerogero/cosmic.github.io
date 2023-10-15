@@ -94,7 +94,7 @@ body{
   }
 p{
   font-family: palatino;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 section img{
   text-align: center;
@@ -111,5 +111,6 @@ h2{
   height: 50vw;
   min-width: 460px;
   min-height: 700px;
+  margin-bottom: 1vw;
 }
 
