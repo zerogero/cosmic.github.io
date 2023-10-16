@@ -71,7 +71,7 @@ display: block;
     position: relative
   }
 }
-
+/*hope it works now*/
 @media screen and (max-width: 800px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive a.icon {
@@ -90,7 +90,6 @@ display: block;
 background-color: black;
 padding: 10px;
 margin: auto;}
-
 .rulelinks a{
   color: #fdfffd;
   font-family: ItcFlair;
