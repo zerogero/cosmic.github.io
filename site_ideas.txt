@@ -11,8 +11,3 @@
 	
 
 IMPROVEMENT IDEAS:
-	Primarily adding more text before the embedded pdf reader
-	And i do mean substantially more text
-	Visuals up	
-	Try making it so that the navbar when expadning after clicking expands unto existing elements (so that it covers them up) (this is fucking hard)
-	make it so that it looks alright on mobile (@media garbage and whatnots)

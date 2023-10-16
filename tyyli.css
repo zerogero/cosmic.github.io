@@ -15,7 +15,7 @@ main {width:50%;
     margin: auto; /*KESKITYS*/
     padding: 20px 20px 20px 20px; 
     background-color: #fdfffd; 
-    min-width: 350px;}
+    min-width: 300px;}
 
 header {text-align: center;
   font-family: universaljack;
@@ -124,7 +124,7 @@ section img{
   margin: auto;
   width: 50%;
   height: 50%;
-  min-width: 400px;
+  min-width: 300px;
 
 }
 h2{
@@ -135,7 +135,7 @@ h2{
 .responsive-iframe{
   width: 50%;
   height: 50vw;
-  min-width: 400px;
+  min-width: 300px;
   min-height: 700px;
   margin-bottom: 1vw;
 }
