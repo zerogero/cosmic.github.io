@@ -85,7 +85,23 @@ display: block;
     text-align: right;
   }
 }
+.rulelinks
+{display: block;
+background-color: black;
+padding: 10px;
+margin: auto;}
 
+.rulelinks a{
+  color: #fdfffd;
+  font-family: ItcFlair;
+  display:inline-block;
+  padding: 10px;
+}
+@media screen and (max-width: 1000px) {
+  .rulelinks a{
+    display: block;
+  }
+}
 
 body{
   margin:0;
